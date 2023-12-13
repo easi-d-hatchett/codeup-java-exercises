@@ -40,13 +40,13 @@ public class HelloWorld {
        // int x = 10;
        // int y = 2;
       //  x /= y;
-        y -= x;
+       // y -= x;
 
         System.out.println(x);
-        System.out.println(y);
+       // System.out.println(y);
 
-        int bigInt = Interger.MAX_VALUE +1;
-        System.out.println(bigInt);
+       // int bigInt = Interger.MAX_VALUE +1;
+        //System.out.println(bigInt);
 
 
 
