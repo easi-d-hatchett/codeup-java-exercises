@@ -59,7 +59,7 @@ public class ControlFlowExercises {
         System.out.println("\nTable of Powers:");
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter an integer: ");
-        int num = scanner.nextInt():
+        int num = scanner.nextInt();
 
         System.out.printf("%-10s%-10s%-10s%n", "Number", "Square", "Cube");
 
