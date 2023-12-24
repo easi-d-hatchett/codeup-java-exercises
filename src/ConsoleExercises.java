@@ -6,7 +6,7 @@ public class ConsoleExercises {
         System.out.format(" The value of pi is approximately %.2f.%n",pi);
 
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Grab an integer: ");
+        System.out.print("Use an integer: ");
         int num= scanner.nextInt();
 
         System.out.println("User entered: " + num);
@@ -22,10 +22,10 @@ public class ConsoleExercises {
         System.out.printf("Word 1: %s%n", word2);
         System.out.printf("Word 1: %s%n", word3);
 
-        System.out.print("lets talk about it: ");
+        System.out.print("What do you like yo do?: ");
         scanner.nextLine();
         String story = scanner.nextLine();
-        System.out.println(" lets go: \"" + story + "\"");
+        System.out.println(" We like to party! " );
 
     }
 }
